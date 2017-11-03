@@ -33,7 +33,7 @@ class Footer extends Component {
                   </a>
                 </li>
               </ul>
-              <p className="copyright text-muted">Copyright &copy; Your Website 2017</p>
+              <p className="copyright text-muted">Copyright &copy; 2017</p>
             </div>
           </div>
         </div>

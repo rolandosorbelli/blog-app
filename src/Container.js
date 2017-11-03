@@ -7,7 +7,7 @@ class Container extends Component {
         <div className="row">
           <div className="col-lg-8 col-md-10 mx-auto">
             <div className="post-preview">
-              <a href="post.html">
+              <a href="#">
                 <h2 className="post-title">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit
                 </h2>
@@ -21,7 +21,7 @@ class Container extends Component {
             </div>
             <hr />
             <div className="post-preview">
-              <a href="post.html">
+              <a href="#">
                 <h2 className="post-title">
                   Maecenas justo turpis, ultricies non pulvinar vitae, suscipit a sem
                 </h2>
@@ -32,7 +32,7 @@ class Container extends Component {
             </div>
             <hr />
             <div className="post-preview">
-              <a href="post.html">
+              <a href="#">
                 <h2 className="post-title">
                   Praesent feugiat est quis felis viverra dignissim. Sed ante diam, suscipit nec ex eget, convallis interdum nunc
                 </h2>
@@ -46,7 +46,7 @@ class Container extends Component {
             </div>
             <hr />
             <div className="post-preview">
-              <a href="post.html">
+              <a href="#">
                 <h2 className="post-title">
                   Suspendisse at auctor risus. Vestibulum hendrerit sapien ut nisi dictum, sit amet congue elit facilisis
                 </h2>

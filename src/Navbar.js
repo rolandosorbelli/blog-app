@@ -16,13 +16,13 @@ return (
 						<a className="nav-link" href="index.html">Home</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="about.html">About</a>
+						<a className="nav-link" href="#">About</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="post.html">Sample Post</a>
+						<a className="nav-link" href="#">Portfolio</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="contact.html">Contact</a>
+						<a className="nav-link" href="#">Contact</a>
 					</li>
 				</ul>
 			</div>
