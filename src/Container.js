@@ -9,53 +9,53 @@ class Container extends Component {
             <div className="post-preview">
               <a href="post.html">
                 <h2 className="post-title">
-                  Man must explore, and this is exploration at its greatest
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit
                 </h2>
                 <h3 className="post-subtitle">
-                  Problems look mighty small from 150 miles up
+                  In id lorem a quam pharetra semper
                 </h3>
               </a>
               <p className="post-meta">Posted by
-                <a href="#">Start Bootstrap</a>
+                <a href="#"> User1 </a>
               on September 24, 2017</p>
             </div>
             <hr />
             <div className="post-preview">
               <a href="post.html">
                 <h2 className="post-title">
-                  I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
+                  Maecenas justo turpis, ultricies non pulvinar vitae, suscipit a sem
                 </h2>
               </a>
               <p className="post-meta">Posted by
-                <a href="#">Start Bootstrap</a>
+                <a href="#"> User2 </a>
               on September 18, 2017</p>
             </div>
             <hr />
             <div className="post-preview">
               <a href="post.html">
                 <h2 className="post-title">
-                  Science has not yet mastered prophecy
+                  Praesent feugiat est quis felis viverra dignissim. Sed ante diam, suscipit nec ex eget, convallis interdum nunc
                 </h2>
                 <h3 className="post-subtitle">
-                  We predict too much for the next year and yet far too little for the next ten.
+                  Curabitur at diam eget nisl sodales pharetra
                 </h3>
               </a>
               <p className="post-meta">Posted by
-                <a href="#">Start Bootstrap</a>
+                <a href="#"> User3 </a>
               on August 24, 2017</p>
             </div>
             <hr />
             <div className="post-preview">
               <a href="post.html">
                 <h2 className="post-title">
-                  Failure is not an option
+                  Suspendisse at auctor risus. Vestibulum hendrerit sapien ut nisi dictum, sit amet congue elit facilisis
                 </h2>
                 <h3 className="post-subtitle">
-                  Many say exploration is part of our destiny, but it’s actually our duty to future generations.
+                  Quisque tristique id mi vitae venenatis. Pellentesque fringilla neque dolor, eget aliquet ligula scelerisque non
                 </h3>
               </a>
               <p className="post-meta">Posted by
-                <a href="#">Start Bootstrap</a>
+                <a href="#"> User4 </a>
               on July 8, 2017</p>
             </div>
             <hr />
