@@ -8,4 +8,4 @@ Every single element of the page has been divided into single React components a
 
 After you forked this repo run `npm start` on your terminal and the app will be executed in your [http://localhost:3000](http://localhost:3000) on your browser.
 
-![blog-app](https://user-images.githubusercontent.com/29622552/32405820-66d79388-c164-11e7-8e34-783db8b4205e.jpg)
+![blog-app](https://user-images.githubusercontent.com/29622552/32405859-4c3fef6a-c165-11e7-86dd-7b1c17d96904.jpg)
